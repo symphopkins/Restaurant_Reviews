@@ -4,10 +4,10 @@
  We were given a dataset of restaurant reviews. Our objective is to create Recurrent Neural Network (RNN) models to forecast the Liked values based on Review, and then determine the most optimal RNN model to recommend to a company.
 
 ## Files Included
-- Restaurant_Reviews.py: Python script containing the code for loading the dataset, building CNN models, training, and evaluation.
-- Restaurant_Reviews.ipynb: Google Colab Notebook containing the detailed code implementation and explanations.
-- requirements.txt: Text file listing the required Python packages and their versions.
--LICENSE.txt: Text file containing the license information for the project.
+- `Restaurant_Reviews.py`: Python script containing the code for loading the dataset, building CNN models, training, and evaluation.
+- `Restaurant_Reviews.ipynb`: Google Colab Notebook containing the detailed code implementation and explanations.
+- `requirements.txt`: Text file listing the required Python packages and their versions.
+- `LICENSE.txt`: Text file containing the license information for the project.
 
 
 ## Installation
